@@ -100,8 +100,8 @@ begin
       --  [4] - overeni vstupu a vystupu, vlozene komentare
       --  [6], [7], [8] - overeni korektni funkce vnorenych smycek, vstupu a vystupu
 
-      -- [1] Vypis textu ABCDEFGHIJKL na displej 
-      INIT => "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.+.+.+.+.+.+.+.+.+.+.+." & nul
+      -- [1] Vypis text xzovin00 na displej 
+      INIT => "++++++++++++ [>++++++++++>++++<<-] >$<! ---------- >.++.<+.>----.<-$>!-----.<.>>.." & nul
 
       -- [2] Vypis textu AAAAB
       -- INIT => "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++>!.+!.+!.+<.+!." & nul
